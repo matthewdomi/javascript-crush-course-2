@@ -1,0 +1,1 @@
+console.log(word1 === word2); 
